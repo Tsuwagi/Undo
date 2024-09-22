@@ -22,11 +22,11 @@ int main() {
 
         break;
 
-    case 3:     a * b;
+    case 3:     // code
 
         break;
 
-    case 4:     a / b;
+    case 4:     // code
 
         break;
 
